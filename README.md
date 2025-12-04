@@ -5,14 +5,14 @@
 [![Pandas](https://img.shields.io/badge/Library-Pandas-150458)](https://pandas.pydata.org/)
 ![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/natinew77-creator/Book-Recommendation-Engine-using-KNN/blob/main/README.md#results--performance)
 
-## 📌 Project Overview
+## Project Overview
 This project is a robust **Collaborative Filtering Recommendation System** built to suggest books based on user rating patterns. By analyzing over **1.1 million ratings**, the system identifies semantic similarities between books without needing to know the content (genre, author, etc.) of the books themselves.
 
 Developed as part of the **FreeCodeCamp Machine Learning with Python Certification**, this solution demonstrates the practical application of unsupervised learning algorithms to solve real-world information retrieval problems.
 
 ---
 
-## 🚀 Key Technical Achievements
+## Key Technical Achievements
 
 ### 1. High-Volume Data Processing & Cleaning
 Handling a dataset of this magnitude requires rigorous preprocessing to ensure model reliability.
@@ -30,7 +30,7 @@ A common challenge in recommendation systems is the "sparsity" of the data (most
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 *   **Language:** Python 3
 *   **Machine Learning:** Scikit-Learn (NearestNeighbors)
@@ -40,7 +40,7 @@ A common challenge in recommendation systems is the "sparsity" of the data (most
 
 ---
 
-## 📊 Results & Performance
+## Results & Performance
 
 The model was validated against a strict testing suite to ensure accuracy.
 
@@ -57,7 +57,7 @@ When querying for the book **"Where the Heart Is (Oprah's Book Club (Paperback))
 
 ---
 
-## � How to Run
+## How to Run
 
 You can view and execute the code directly in Google Colab, or run it locally.
 
