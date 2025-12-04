@@ -79,3 +79,4 @@ You can view and execute the code directly in Google Colab, or run it locally.
 
 ## 👨‍💻 Author
 **Natneal B.**  
+*   [LinkedIn](https://linkedin.com/in/natneal-belete)
