@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)](https://scikit-learn.org/stable/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-150458)](https://pandas.pydata.org/)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/natinew77-creator/Book-Recommendation-Engine-using-KNN/blob/main/README.md#results--performance)
 
 ## 📌 Project Overview
 This project is a robust **Collaborative Filtering Recommendation System** built to suggest books based on user rating patterns. By analyzing over **1.1 million ratings**, the system identifies semantic similarities between books without needing to know the content (genre, author, etc.) of the books themselves.
