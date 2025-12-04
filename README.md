@@ -1,8 +1,8 @@
 # Book Recommendation Engine (K-Nearest Neighbors)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-150458)](https://pandas.pydata.org/)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Project Overview
